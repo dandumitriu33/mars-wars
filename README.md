@@ -13,11 +13,11 @@ In order to run this project you will need at least a simple http server.
 
 2. Other options are available on Phaser's installation guide at: https://phaser.io/tutorials/getting-started-phaser3/part2
 
-Credits:
+## Credits:
 
-Music - Kai Engel - https://www.kai-engel.com/
-Mostly inspired by Jared York and his Space Shooter tutorial at: https://www.yorkcs.com/build-a-space-shooter-with-phaser-3/
-Digital assets by: https://www.kenney.nl/
+Music - Kai Engel - https://www.kai-engel.com/  
+Mostly inspired by Jared York and his Space Shooter tutorial at: https://www.yorkcs.com/build-a-space-shooter-with-phaser-3/  
+Digital assets by: https://www.kenney.nl/  
 Part of the larger Codecool project: https://github.com/iulian-coder/arcade_game
 
 
