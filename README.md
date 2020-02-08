@@ -1,6 +1,9 @@
-# mars-wars
+# Mars Wars
 Javascript - Phaser 3 Framework - educational mini game project  
 Mostly an exercise in navigating new frameworks and their documentation. Minimal OOP skills.
+
+## Quick Look
+![alt text](assets-mars-wars/screenshot.jpg?raw=true)
 
 ## Installation
 In order to run this project you will need at least a simple http server.  
